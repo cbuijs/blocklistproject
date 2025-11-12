@@ -1,0 +1,11 @@
+; RPZ "VAPING-TOP-N"
+$TTL 3600
+@ SOA dummy-ns hostmaster 1762958542 12h 15m 3w 3h
+eightvape.com IN CNAME .
+*.eightvape.com IN CNAME .
+elementvape.com IN CNAME .
+*.elementvape.com IN CNAME .
+vapesuperstore.co.uk IN CNAME .
+*.vapesuperstore.co.uk IN CNAME .
+vaping360.com IN CNAME .
+*.vaping360.com IN CNAME .
